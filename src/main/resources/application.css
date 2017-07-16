@@ -1,0 +1,94 @@
+.root {
+    -fx-background-color: #000;
+    -fx-background-image: url("/images/chess_enter.jpg");
+    -fx-background-size: 100% 100%;
+    -fx-background-repeat: no-repeat;
+}
+
+#grid2 {
+    -fx-background-color: #000;
+    -fx-background-image: url("/images/chessBoard1.png");
+    -fx-background-size: 100% 100%;
+    -fx-background-repeat: no-repeat;
+}
+
+#slogan {
+    -fx-text-fill: red;
+    -fx-font-weight: bold;
+    -fx-font-size: 50px;
+    -fx-padding: 40px 40px;
+    -fx-effect: dropshadow(gaussian, black, 0, 2, 2, 2);
+    /*-fx-font-family:"Times New Roman";*/
+}
+
+#start {
+    -fx-text-fill: red;
+    -fx-font-weight: bold;
+    -fx-font-size: 50px;
+    -fx-padding: 40px 40px;
+    -fx-effect: dropshadow(gaussian, black, 0, 2, 2, 2);
+}
+
+
+#player {
+    -fx-text-fill: black;
+    -fx-font-weight: lighter;
+    -fx-font-size: 25px;
+    -fx-padding: 50px 50px;
+    /*-fx-effect: dropshadow(gaussian, black, 0, 2, 2, 2);*/
+}
+
+#chessPlayer {
+    -fx-background-image: url("/images/chessPlayer.jpg");
+    -fx-background-size: 400 323;
+    -fx-background-repeat: no-repeat;
+}
+
+#Gifka1 {
+    -fx-background-image: url("/images/whitePawnHit.gif");
+    -fx-background-size: 100% 100%;
+    -fx-background-repeat: no-repeat;
+}
+
+#registration {
+    -fx-background-color: black;
+    /*-fx-background-image: url("/images/second.jpg");*/
+    -fx-background-size: 100% 100%;
+    -fx-background-repeat: no-repeat;
+}
+
+#Gifka2 {
+    -fx-background-image: url("/images/2.gif");
+    -fx-background-size: 100% 100%;
+    -fx-background-repeat: no-repeat;
+}
+
+#Gifka3 {
+    -fx-background-image: url("/images/3.gif");
+    -fx-background-size: 100% 100%;
+    -fx-background-repeat: no-repeat;
+}
+
+#Gifka4 {
+    -fx-background-image: url("/images/4.gif");
+    -fx-background-size: 100% 100%;
+    -fx-background-repeat: no-repeat;
+}
+
+#Gifka5 {
+    -fx-background-image: url("/images/5.gif");
+    -fx-background-size: 100% 100%;
+    -fx-background-repeat: no-repeat;
+}
+
+#Gifka6 {
+    -fx-background-image: url("/images/6.gif");
+    -fx-background-size: 100% 100%;
+    -fx-background-repeat: no-repeat;
+}
+
+#Gifka7 {
+    -fx-background-image: url("/images/7.gif");
+    -fx-background-size: 100% 100%;
+    -fx-background-repeat: no-repeat;
+}
